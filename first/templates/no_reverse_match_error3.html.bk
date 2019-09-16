@@ -1,0 +1,8 @@
+<html>
+<ul>
+	<li>
+		<a href="{% url 'url_first' %}">Fixed: NoReverseMatch without parameter</a>
+	</li>
+</ul>
+<a href="{% url 'url_index' %}">Go back</a>
+</html>
